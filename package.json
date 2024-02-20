@@ -1,0 +1,17 @@
+{
+  "name": "npmmodule",
+  "version": "1.0.0",
+  "description": "My 2nd assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "package"
+  ],
+  "author": "Bhumii",
+  "license": "ISC"
+}
